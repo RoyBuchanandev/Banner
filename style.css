@@ -69,8 +69,6 @@
   bottom: 15%;
 }
 
- 
-
 .logo {
   transition: transform 4s ease-in;
   position: absolute;
@@ -80,7 +78,7 @@
   bottom: 15%;
 }
 
-.tooth_ad .logo {
+.logo {
   transform: translateX(600px);
 }
 
