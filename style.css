@@ -69,9 +69,7 @@
   bottom: 15%;
 }
 
-.tooth_ad .request-btn {
-  transform: translateX(460px);
-}
+ 
 
 .logo {
   transition: transform 4s ease-in;
